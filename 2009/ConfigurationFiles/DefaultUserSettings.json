@@ -113,7 +113,7 @@
     },
     {
         "HivePath": "HKLM:\\DEFAULT\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager",
-        "KeyName": "SubscribedContent-338393Enabled",
+        "KeyName": "SubscribedContent-353694Enabled",
         "PropertyType": "DWORD",
         "PropertyValue": 0,
         "SetProperty": "True"
